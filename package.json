@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_youtb",
+  "version": "1.0.0",
+  "description": "aplicação de estudo de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "youtube",
+    "getting started"
+  ],
+  "author": "Davi F.S.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
